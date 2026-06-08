@@ -67,8 +67,8 @@ void calc_estabilidade(){
   
   estabilidade = intenvalue / (1 + 0.7 * (denvalue / 100.0) + 0.4 * (velovalue / 100.0));
   
-  if (estabilidade < 35){alert = 3;}
-  else if(estabilidade < 50){alert =2;}
+  if (estabilidade < 40){alert = 3;}
+  else if(estabilidade < 60){alert =2;}
   else{alert = 1;}
 } 
 
