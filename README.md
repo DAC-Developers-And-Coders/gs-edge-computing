@@ -154,8 +154,8 @@ As informações são analisadas diretamente no dispositivo, permitindo identifi
 
 ## 👥 Integrantes
 
-- André Victor
-- Davi Dias
-- David Mikael
-- Gabriel Novaga
-- Matheus Monteiro
+* ANDRÉ VICTOR GONÇALVES NASCIMENTO - RM 570567
+* DAVI DIAS DE SOUZA FREITAS - RM 574089
+* DAVID MIKAEL DIAS DA SILVA - RM 571637
+* GABRIEL NOVAGA PEREIRA - RM 573196
+* MATHEUS MONTEIRO DA SILVA - RM 573842
